@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622329504072",
+    "firebase_url": "https://flutterdemo-47f99.firebaseio.com",
+    "project_id": "flutterdemo-47f99",
+    "storage_bucket": "flutterdemo-47f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622329504072:android:ea49bebb9008db83e8537d",
+        "android_client_info": {
+          "package_name": "com.evorait.flutterdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622329504072-q4n1puqbdfb1jjm9nb1vrd02krdccmvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcExpNckgL7VbfIO0BuyHEDEnWIYIy-Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622329504072-q4n1puqbdfb1jjm9nb1vrd02krdccmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622329504072-pkkqqabmgptpogafq7nmp7kgu0nps7lf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evorait.flutterdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
